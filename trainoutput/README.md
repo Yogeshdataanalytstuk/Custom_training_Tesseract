@@ -1,2 +1,2 @@
 - All the required files for model generation will be saved here.
--The file named ending with .trainedfile is the trained model on the custom data set.
+- The file named ending with .trainedfile is the trained model on the custom data set.
